@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:f05033&height=230&section=header&text=Kevin%20Shalom&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%E2%80%A2%20IT%20Engineer&descSize=16&descColor=f05033&descAlignY=55&fontFamily=Montserrat" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:f05033&height=230&section=header&text=Kevin%20Shalom&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer&descSize=16&descColor=f05033&descAlignY=55&fontFamily=Montserrat" width="100%"/>
+
+</div>
+
+
 
 <p align="center">
   Building robust and distributed software solutions, combining modern web architectures with system automation
