@@ -57,16 +57,8 @@ Distributed modular system designed to modernize services, featuring hardware-ac
 - Python web scraping engine for automated schedule extraction.
 - Gamified avatar generator microservice deployed in Docker.
 
----
 
-### ERP Customizations & Automation
 
-IT & Operations Support Platform  
-*SuiteScript development and system management in a corporate environment at INOBELLA*
-
-![NetSuite](https://img.shields.io/badge/-NetSuite%20SuiteScript-000000?logo=oracle)
-![JavaScript](https://img.shields.io/badge/-JavaScript-1a1a1a?logo=javascript)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
 
 Developed automations and managed enterprise resource planning (ERP) workflows to optimize business processes and operations.
 
