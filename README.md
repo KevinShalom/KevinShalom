@@ -1,25 +1,22 @@
-<h1 align="center">Kevin Shalom Herrera Covarrubias</h1>
+<div align="center">
 
-<p align="center" >
- Fullstack Developer
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:00e5ff&height=230&section=header&text=Kevin%20Shalom&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%E2%80%A2%20IT%20Engineer&descSize=16&descColor=00e5ff&descAlignY=55&fontFamily=Montserrat" width="100%"/>
 
-<p align="center">
-  Building robust and distributed software solutions, combining modern web architectures with system automation
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=700&size=22&duration=2500&pause=800&color=00e5ff&center=true&vCenter=true&repeat=true&width=450&height=30&lines=%3E+Full+Stack+Developer;%3E+IT+Engineer;%3E+DevOps+Enthusiast)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;About Me
 
-I'm a fullstack developer and IT Engineer.  
-I enjoy building efficient, distributed systems from core business logic to interactive user experiences.
+Soy un desarrollador fullstack y egresado de Ingeniería en Informática. Me apasiona construir sistemas eficientes y distribuidos, desde la lógica del backend hasta experiencias de usuario dinámicas.
 
-Currently focused on scalable APIs, microservices, databases optimization, and corporate system automation.
+Actualmente enfocado en arquitecturas escalables, diseño de microservicios, optimización de bases de datos y la automatización sobre plataformas ERP corporativas.
 
 ---
 
-## Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack
 
 | Domain            | Technologies |
 |------------------|-------------|
@@ -32,38 +29,36 @@ Currently focused on scalable APIs, microservices, databases optimization, and c
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### CuceiVerse
 
 Unified Student & Campus Navigation Platform  
-*Full-Stack distributed platform designed to centralize academic services and physical campus navigation*
+*Plataforma Full-Stack distribuida diseñada para centralizar servicios académicos y navegación física del campus*
   
 ![React](https://img.shields.io/badge/-React-1a1a1a?logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1a1a1a?logo=typescript)
 ![NestJS](https://img.shields.io/badge/-NestJS-e0234e?logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![PixiJS](https://img.shields.io/badge/-PixiJS-e91e63?logo=pixijs&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-1a1a1a?logo=docker)
-![Python](https://img.shields.io/badge/-Python-1a1a1a?logo=python)
-
-Distributed modular system designed to modernize services, featuring hardware-accelerated 2D navigation and legacy systems integration.
 
 **Key Features:**
-- Hardware-accelerated 2D dynamic campus map (PixiJS & WebGL).
-- Heuristic pathfinding routing system (A* Algorithm) for campus buildings.
-- Legacy system integration using a JWT authentication proxy.
-- Performance optimization using Session Snapshot Caching.
-- Python web scraping engine for automated schedule extraction.
-- Gamified avatar generator microservice deployed in Docker.
+- Mapa dinámico del campus en 2D acelerado por hardware (PixiJS & WebGL).
+- Algoritmo de búsqueda heurística **A*** para guiado peatonal inteligente.
+- Integración segura con sistemas legacy vía proxy de autenticación JWT y caché inteligente.
+- Microservicio en Python para scraping automático de horarios estudiantiles.
+- Generador gamificado de avatares desplegado en contenedores Docker.
 
+---
 
+### ERP Customizations & Automations
 
+IT & Operations Support Platform  
+*Desarrollo SuiteScript y administración de flujos ERP en INOBELLA*
 
-Developed automations and managed enterprise resource planning (ERP) workflows to optimize business processes and operations.
+![NetSuite](https://img.shields.io/badge/-NetSuite%20SuiteScript-000000?logo=oracle)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1a1a1a?logo=javascript)
 
 **Key Features:**
-- Custom SuiteScript and automated workflows development.
-- ERP module configuration and integration.
-- Functional validation and technical documentation.
-- Production issue resolution and user support ticketing.
+- Programación de SuiteScripts personalizados y flujos de trabajo automatizados.
+- Integración y soporte técnico empresarial.
