@@ -1,7 +1,7 @@
 <h1 align="center">Kevin Shalom Herrera Covarrubias</h1>
 
 <p align="center" >
- Fullstack Developer & Ingeniero en Informática
+ Fullstack Developer
 </p>
 
 <p align="center">
