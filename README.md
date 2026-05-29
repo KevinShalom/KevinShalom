@@ -1,8 +1,6 @@
-<h1 align="center">Kevin Shalom Herrera Covarrubias</h1>
+<div align="center">
 
-<p align="center" >
- Fullstack Developer 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:f05033&height=230&section=header&text=Kevin%20Shalom&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%E2%80%A2%20IT%20Engineer&descSize=16&descColor=f05033&descAlignY=55&fontFamily=Montserrat" width="100%"/>
 
 <p align="center">
   Building robust and distributed software solutions, combining modern web architectures with system automation
@@ -12,7 +10,7 @@
 
 ## About Me
 
-I'm a fullstack developer and IT Engineer.  
+I'm a fullstack developer.  
 I enjoy building efficient, distributed systems from core business logic to interactive user experiences.
 
 Currently focused on scalable APIs, microservices, databases optimization, and corporate system automation.
@@ -56,3 +54,4 @@ Distributed modular system designed to modernize services, featuring hardware-ac
 - Performance optimization using Session Snapshot Caching.
 - Python web scraping engine for automated schedule extraction.
 - Gamified avatar generator microservice deployed in Docker.
+
